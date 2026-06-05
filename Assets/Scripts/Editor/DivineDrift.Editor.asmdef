@@ -1,0 +1,18 @@
+{
+    "name": "DivineDrift.Editor",
+    "rootNamespace": "DivineDrift.EditorTools",
+    "references": [
+        "DivineDrift"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
